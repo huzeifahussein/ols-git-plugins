@@ -1,0 +1,1 @@
+The database dump contained in this archive has been created using 'mydumper' and can be imported with 'myloader'. You can install 'myloader' on most linux operating systems using their respective package manager. You can also import all SQL files at once using 'mysqlimport' by specifying a wildcard for the table name. For example, `mysqlimport *.sql`.
